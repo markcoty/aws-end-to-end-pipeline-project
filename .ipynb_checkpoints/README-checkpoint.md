@@ -15,7 +15,7 @@ This project demonstrates an end-to-end cloud-based data pipeline using AWS serv
 **Description**: The data contained a large number of missing values (especially in the MSRP, range, and clean alternative fuel vehicle status columns).
 
 ## Pipeline Architecture
-https://github.com/markcoty/aws-end-to-end-pipeline-project/blob/main/AWS-architecture.png
+https://github.com/markcoty/aws-end-to-end-pipeline-project/blob/main/Job%20Flow%20Image.png
 
 ## Data Transformation Steps
 1. Null value removal
