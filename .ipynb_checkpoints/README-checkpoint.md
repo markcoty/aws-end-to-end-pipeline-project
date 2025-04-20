@@ -12,7 +12,7 @@ This project demonstrates an end-to-end cloud-based data pipeline using AWS serv
 ## Dataset
 **Name**: Electric_Vehicle_Population_Data  
 **Source**: https://catalog.data.gov/dataset/electric-vehicle-population-data 
-**Description**: The data contained a large number of missing values (especially in the MSRP, range, and clean alternative fuel vehicle status).
+**Description**: The data contained a large number of missing values (especially in the MSRP, range, and clean alternative fuel vehicle status columns).
 
 ## Pipeline Architecture
 https://github.com/markcoty/aws-end-to-end-pipeline-project/blob/main/AWS-architecture.png
